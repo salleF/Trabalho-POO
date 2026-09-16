@@ -1,0 +1,9 @@
+public enum EstadoMaquina {
+    DESLIGADA,
+    LIGADA_PARADA,
+    LAVANDO,
+    PAUSADA,
+    LAVAGEM_CONCLUIDA,
+    CENTRIFUGANDO,
+    CENTRIFUGACAO_CONCLUIDA
+}
